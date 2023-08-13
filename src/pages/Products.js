@@ -1,10 +1,10 @@
+import data from "../data";
+import { Link } from "react-router-dom";
 const Products = () => {
   return (
-    <>
-      <section className='section'>
-        <h2>products</h2>
-      </section>
-    </>
+    <div>
+      <section className="section">Test</section>
+    </div>
   );
 };
 
